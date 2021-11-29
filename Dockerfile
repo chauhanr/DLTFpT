@@ -27,3 +27,5 @@ RUN pip install gym==0.12.5
 
 # Install for Object Detection notebook: 
 RUN pip install opencv-python==4.1.2.30
+
+RUN pip install xgboost
